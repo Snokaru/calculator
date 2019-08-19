@@ -1,7 +1,7 @@
-Basic Javascript Calculator
+# Javascript Calculator
+A simple javascript calculator to perform basic arithmetic.
 
-Skills
-
-Javascript (functions, DOM Manipulation)
-HTML
-CSS
+## What I learned
+- Javascript
+- HTML/CSS
+- DOM Manipulation
